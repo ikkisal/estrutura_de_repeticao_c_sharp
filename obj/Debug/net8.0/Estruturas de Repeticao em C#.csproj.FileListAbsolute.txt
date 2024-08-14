@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Programação\Projetos C#\Estruturas de Repeticao em C#\bin\Debug\net8.0\Estruturas de Repeticao em C#.exe
+C:\Users\PC\Desktop\Programação\Projetos C#\Estruturas de Repeticao em C#\bin\Debug\net8.0\Estruturas de Repeticao em C#.deps.json
+C:\Users\PC\Desktop\Programação\Projetos C#\Estruturas de Repeticao em C#\bin\Debug\net8.0\Estruturas de Repeticao em C#.runtimeconfig.json
+C:\Users\PC\Desktop\Programação\Projetos C#\Estruturas de Repeticao em C#\bin\Debug\net8.0\Estruturas de Repeticao em C#.dll
+C:\Users\PC\Desktop\Programação\Projetos C#\Estruturas de Repeticao em C#\bin\Debug\net8.0\Estruturas de Repeticao em C#.pdb
+C:\Users\PC\Desktop\Programação\Projetos C#\Estruturas de Repeticao em C#\obj\Debug\net8.0\Estruturas de Repeticao em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Programação\Projetos C#\Estruturas de Repeticao em C#\obj\Debug\net8.0\Estruturas de Repeticao em C#.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Programação\Projetos C#\Estruturas de Repeticao em C#\obj\Debug\net8.0\Estruturas de Repeticao em C#.AssemblyInfo.cs
+C:\Users\PC\Desktop\Programação\Projetos C#\Estruturas de Repeticao em C#\obj\Debug\net8.0\Estruturas de Repeticao em C#.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Programação\Projetos C#\Estruturas de Repeticao em C#\obj\Debug\net8.0\Estruturas de Repeticao em C#.sourcelink.json
+C:\Users\PC\Desktop\Programação\Projetos C#\Estruturas de Repeticao em C#\obj\Debug\net8.0\Estruturas de Repeticao em C#.dll
+C:\Users\PC\Desktop\Programação\Projetos C#\Estruturas de Repeticao em C#\obj\Debug\net8.0\refint\Estruturas de Repeticao em C#.dll
+C:\Users\PC\Desktop\Programação\Projetos C#\Estruturas de Repeticao em C#\obj\Debug\net8.0\Estruturas de Repeticao em C#.pdb
+C:\Users\PC\Desktop\Programação\Projetos C#\Estruturas de Repeticao em C#\obj\Debug\net8.0\Estruturas de Repeticao em C#.genruntimeconfig.cache
+C:\Users\PC\Desktop\Programação\Projetos C#\Estruturas de Repeticao em C#\obj\Debug\net8.0\ref\Estruturas de Repeticao em C#.dll
